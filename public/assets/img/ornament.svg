@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40" fill="none" stroke="#d4af37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- қошқар мүйіз: екі жаққа иілген мүйіз өрнегі -->
+  <path d="M60 36 C60 22 47 14 38 19 C30 23 31 33 38 33 C43 33 44 27 40 25"/>
+  <path d="M60 36 C60 22 73 14 82 19 C90 23 89 33 82 33 C77 33 76 27 80 25"/>
+  <path d="M60 4 L65 10 L60 16 L55 10 Z"/>
+  <path d="M0 36 C8 36 12 30 12 24 C12 18 6 16 4 20"/>
+  <path d="M120 36 C112 36 108 30 108 24 C108 18 114 16 116 20"/>
+  <path d="M18 36 H44 M76 36 H102" stroke-opacity=".55"/>
+</svg>

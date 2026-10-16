@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" fill="none" stroke="#d4af37">
+  <!-- көне карта: меридиандар, параллельдер, керуен жолдары және құбыланама -->
+  <g stroke-opacity=".10" stroke-width="1">
+    <path d="M-50 160 Q800 60 1650 160"/>
+    <path d="M-50 330 Q800 230 1650 330"/>
+    <path d="M-50 500 Q800 400 1650 500"/>
+    <path d="M-50 670 Q800 570 1650 670"/>
+    <path d="M-50 840 Q800 740 1650 840"/>
+    <path d="M200 -20 Q150 500 220 1020"/>
+    <path d="M480 -20 Q450 500 490 1020"/>
+    <path d="M800 -20 V1020"/>
+    <path d="M1120 -20 Q1150 500 1110 1020"/>
+    <path d="M1400 -20 Q1450 500 1380 1020"/>
+  </g>
+  <g stroke-opacity=".16" stroke-width="1.4" stroke-dasharray="2 9">
+    <path d="M120 720 C320 640 420 560 620 590 S980 520 1140 430 1420 360 1540 300"/>
+    <path d="M260 860 C420 760 640 760 760 680 S1020 600 1180 640"/>
+    <path d="M640 260 C760 330 820 420 900 470"/>
+  </g>
+  <g stroke-opacity=".14" stroke-width="1.2">
+    <path d="M1180 640 m-8 0 a8 8 0 1 0 16 0 a8 8 0 1 0 -16 0"/>
+    <path d="M620 590 m-6 0 a6 6 0 1 0 12 0 a6 6 0 1 0 -12 0"/>
+    <path d="M1140 430 m-6 0 a6 6 0 1 0 12 0 a6 6 0 1 0 -12 0"/>
+    <path d="M900 470 m-5 0 a5 5 0 1 0 10 0 a5 5 0 1 0 -10 0"/>
+  </g>
+  <g transform="translate(1340 190)" stroke-opacity=".22" stroke-width="1.2">
+    <circle r="90"/>
+    <circle r="70" stroke-opacity=".6"/>
+    <circle r="16"/>
+    <path d="M0 -118 L12 -12 L0 0 L-12 -12 Z M0 118 L12 12 L0 0 L-12 12 Z M-118 0 L-12 -12 L0 0 L-12 12 Z M118 0 L12 -12 L0 0 L12 12 Z"/>
+    <path d="M-62 -62 L-6 -16 M62 -62 L6 -16 M-62 62 L-6 16 M62 62 L6 16" stroke-opacity=".7"/>
+  </g>
+</svg>

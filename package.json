@@ -1,0 +1,22 @@
+{
+  "name": "qazaq-handygy",
+  "version": "1.0.0",
+  "description": "QAZAQ HANDYǴY — Қазақ хандығы тарихын ҰБТ-ға дайындалу үшін үйренуге арналған интерактивті сайт",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "dev": "node --disable-warning=ExperimentalWarning --watch server/index.js",
+    "test": "node --disable-warning=ExperimentalWarning --test tests/api.test.js",
+    "test:ui": "node tests/ui.check.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.34.4"
+  }
+}
